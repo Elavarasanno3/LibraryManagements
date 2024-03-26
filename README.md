@@ -1,3 +1,7 @@
+Admin name : admin
+
+Admin password : 123
+                                    
                                     LibraryManagement
                   Type of application : B 2 C
                   Target audiance : Admin  
